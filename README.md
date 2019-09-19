@@ -1,1 +1,1 @@
-# StateFarmNeuralNetwork
+ three-layer neural network which performs photo recognition to identifydifferent types of impaired driving
